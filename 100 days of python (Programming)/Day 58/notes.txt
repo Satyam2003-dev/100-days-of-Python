@@ -1,0 +1,32 @@
+
+
+Front-End: HTML, CSS, Javascript
+Back-End: .NET, Ruby, PHP, Java, NodeJS, SQL, Python
+
+Bootstrap, frontend built to be reusable
+
+Responsive: Responds to the viewport, should have best adaptable
+layout for say desktop/mobile etc.
+
+Content Delivery Network - having many points where a website can be accessed.
+  versus only having one location causing slow connection further away
+
+Wireframing - drawing your design of your website with pencil and paper
+  settle on your design, before starting.
+Mockups - final design
+
+1. Browse through other websites to be inspired
+http://ui-patterns.com/patterns
+https://dribbble.com/
+2. Wireframe and design a simple sketch of websites
+3. Create a Mockup of your website
+4. Create a prototype with animations etc.
+
+
+Wireframing
+https://sneakpeekit.com/
+https://balsamiq.com/ costs money
+
+
+bootstrap
+https://getbootstrap.com/docs/4.5/components/navbar/
