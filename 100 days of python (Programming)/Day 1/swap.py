@@ -1,10 +1,12 @@
+#  code to swap two number
+# There are two variables, a and b from input
 
-a = input("a:")
-b = input("b:")
-# let take a variable in which we store value of a
+a = input()
+b = input()
+
 c = a
 a = b
 b = c
-print("After swapping the value")
-print("a:" + a)
-print("b:" + b)
+
+print("a: " + a)
+print("b: " + b)
