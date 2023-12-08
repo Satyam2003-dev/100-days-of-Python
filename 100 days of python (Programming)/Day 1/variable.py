@@ -6,3 +6,9 @@ print("Your Name is" + " " + name)
 
 xyz = "your name"
 print(xyz)
+
+
+#  print product of 2 number
+num1 = int(input())
+num2 = int(input())
+print(num1*num2)
